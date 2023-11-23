@@ -2,9 +2,8 @@
 
 Monitor and restart background threads.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/ruricolist/moira.git   |
-| commit  | 21f1cfd  |
-| systems | moira |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------|
+| source  | git:https://github.com/ruricolist/moira.git |
+| commit  | 448d8e7                                     |
+| systems | moira                                       |
+|---------+---------------------------------------------|
